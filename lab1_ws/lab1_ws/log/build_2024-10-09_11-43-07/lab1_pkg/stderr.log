@@ -1,0 +1,5 @@
+  File "/home/nadilgunawardane/lab1_ws/install/lab1_pkg/lib/python3.10/site-packages/lab1_pkg/talker.py", line 19
+    def publish_drive_message(self)
+                                   ^
+SyntaxError: expected ':'
+

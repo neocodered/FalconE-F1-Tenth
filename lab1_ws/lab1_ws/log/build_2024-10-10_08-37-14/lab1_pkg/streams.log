@@ -1,0 +1,26 @@
+[1.439s] Invoking command in '/home/nadilgunawardane/lab1_ws/src/lab1_pkg': PYTHONPATH=/home/nadilgunawardane/lab1_ws/build/lab1_pkg/prefix_override:/home/nadilgunawardane/lab1_ws/install/lab1_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/lab1_pkg build --build-base /home/nadilgunawardane/lab1_ws/build/lab1_pkg/build install --record /home/nadilgunawardane/lab1_ws/build/lab1_pkg/install.log --single-version-externally-managed install_data
+[1.801s] running egg_info
+[1.802s] writing ../../build/lab1_pkg/lab1_pkg.egg-info/PKG-INFO
+[1.802s] writing dependency_links to ../../build/lab1_pkg/lab1_pkg.egg-info/dependency_links.txt
+[1.803s] writing entry points to ../../build/lab1_pkg/lab1_pkg.egg-info/entry_points.txt
+[1.803s] writing requirements to ../../build/lab1_pkg/lab1_pkg.egg-info/requires.txt
+[1.803s] writing top-level names to ../../build/lab1_pkg/lab1_pkg.egg-info/top_level.txt
+[1.805s] reading manifest file '../../build/lab1_pkg/lab1_pkg.egg-info/SOURCES.txt'
+[1.808s] writing manifest file '../../build/lab1_pkg/lab1_pkg.egg-info/SOURCES.txt'
+[1.809s] running build
+[1.809s] running build_py
+[1.809s] running install
+[1.810s] running install_lib
+[1.813s] running install_data
+[1.813s] copying package.xml -> /home/nadilgunawardane/lab1_ws/install/lab1_pkg/share/lab1_pkg
+[1.814s] creating /home/nadilgunawardane/lab1_ws/install/lab1_pkg/share/lab1_pkg/launch
+[1.814s] running install_egg_info
+[1.815s] removing '/home/nadilgunawardane/lab1_ws/install/lab1_pkg/lib/python3.10/site-packages/lab1_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[1.817s] Copying ../../build/lab1_pkg/lab1_pkg.egg-info to /home/nadilgunawardane/lab1_ws/install/lab1_pkg/lib/python3.10/site-packages/lab1_pkg-0.0.0-py3.10.egg-info
+[1.818s] running install_scripts
+[1.848s] Installing relay script to /home/nadilgunawardane/lab1_ws/install/lab1_pkg/lib/lab1_pkg
+[1.849s] Installing simple_publisher script to /home/nadilgunawardane/lab1_ws/install/lab1_pkg/lib/lab1_pkg
+[1.850s] Installing simple_subscriber script to /home/nadilgunawardane/lab1_ws/install/lab1_pkg/lib/lab1_pkg
+[1.850s] Installing talker script to /home/nadilgunawardane/lab1_ws/install/lab1_pkg/lib/lab1_pkg
+[1.850s] writing list of installed files to '/home/nadilgunawardane/lab1_ws/build/lab1_pkg/install.log'
+[1.906s] Invoked command in '/home/nadilgunawardane/lab1_ws/src/lab1_pkg' returned '0': PYTHONPATH=/home/nadilgunawardane/lab1_ws/build/lab1_pkg/prefix_override:/home/nadilgunawardane/lab1_ws/install/lab1_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/lab1_pkg build --build-base /home/nadilgunawardane/lab1_ws/build/lab1_pkg/build install --record /home/nadilgunawardane/lab1_ws/build/lab1_pkg/install.log --single-version-externally-managed install_data
