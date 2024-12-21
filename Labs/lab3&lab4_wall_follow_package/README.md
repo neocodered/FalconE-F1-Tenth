@@ -15,9 +15,9 @@ Place the "wall_follow" package inside your ROS2 workspace:
 ## Building the Package
 After placing the package inside the workspace, build it using colcon:
 ```bash
-cd ~/sim_ws
-colcon build
-source install/setup.bash
+  cd ~/sim_ws
+  colcon build
+  source install/setup.bash
 ```
 
 
